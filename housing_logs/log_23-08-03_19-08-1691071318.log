@@ -1,0 +1,10 @@
+[2023-08-03 19:31:59,008] werkzeug - WARNING -  * Debugger is active!
+[2023-08-03 19:31:59,018] werkzeug - INFO -  * Debugger PIN: 114-522-516
+[2023-08-03 19:33:47,775] root - INFO - Erorr occured in script: [/Users/aj/Desktop/2023/practice/py/Untitled Folder/ml/LR/app.py] at line number: [15] error message: [test exception]
+[2023-08-03 19:33:47,775] root - INFO - we are testing loggong module
+[2023-08-03 19:33:47,776] werkzeug - INFO - 127.0.0.1 - - [03/Aug/2023 19:33:47] "GET / HTTP/1.1" 200 -
+[2023-08-03 19:33:47,940] werkzeug - INFO - 127.0.0.1 - - [03/Aug/2023 19:33:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-08-03 19:33:49,153] root - INFO - Erorr occured in script: [/Users/aj/Desktop/2023/practice/py/Untitled Folder/ml/LR/app.py] at line number: [15] error message: [test exception]
+[2023-08-03 19:33:49,154] root - INFO - we are testing loggong module
+[2023-08-03 19:33:49,154] werkzeug - INFO - 127.0.0.1 - - [03/Aug/2023 19:33:49] "GET / HTTP/1.1" 200 -
+[2023-08-04 00:53:58,559] werkzeug - INFO -  * Detected change in '/Users/aj/Desktop/2023/practice/py/Untitled Folder/ml/LR/housing/component/data_ingestion.py', reloading
